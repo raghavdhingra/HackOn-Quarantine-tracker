@@ -1,0 +1,7 @@
+In today's world, women's safety is an important concern not only to a personal level or a social level but it matters to the whole country and world. The safety must include the online world too. The messages, pics, videos, etc that they received or posted on social media should have some kind of filter to caught those anti-social and anti-national people.
+Therefore for this, I've made an Online Analyzer for tweeter which analyzes the tweets whether the tweets is in English, Hindi, or in Hinglish (a mixture of English and Hindi), and gives back the result. It can even analyze the photos posted on the tweeter and also can read the text over it and hence mark the image as offensive or not.
+For this, I've provided a textbox in which we can add a username or a list of usernames for further analyses.
+We can also add a hashtag in the same text field which can be used to analyze a group of tweets having the same hashtags.
+In extension for the project, I've made some APIs for analyzing a username and for hashtags and also made APIs for the suspect list and hence other apps ( including Android, IOS, desktop, etc ) can share the same database and functions.
+I've made a model that has more than 93% of accuracy level, still not 100%, but in the end, it's a push toward a better society.
+Thanks :)
